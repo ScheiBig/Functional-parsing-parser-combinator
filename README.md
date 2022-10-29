@@ -1,4 +1,4 @@
-# Functional-parsing-parser-combinator
+# Functional parsing / parser combinator
 A library for creating parsers, written (almost) exclusively using a functional programming paradigm. (Ported to Kotlin from prof. Graham Hutton's Haskell library).
 
 [Original library code](./src/main/orginal_code.hs), as well as implementation details and documentation can be found
